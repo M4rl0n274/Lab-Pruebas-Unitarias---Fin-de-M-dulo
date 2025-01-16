@@ -1,3 +1,5 @@
+Laboratorio
+
 # Instructions
 
 A **Web API** allows our applications to communicate - **request** resources and **receive** responses - over the internet. 
@@ -53,3 +55,5 @@ Esta API web servirá una base de datos **JSON** que contiene una lista de **usu
 * El método `delUser()` debe:
 * Tomar un número de **id** como entrada de la siguiente manera: `delUser(<id>)`
 * Hacer que el usuario que coincida con ese número de **id** sea eliminado del servidor JSON.
+
+
